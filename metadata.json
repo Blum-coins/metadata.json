@@ -1,0 +1,42 @@
+{
+    "name": "My NFT Collection",
+    "description": "This is a description of my NFT collection",
+    "image": "https://example.com/preview.png",
+    "cover_image": "https://example.com/cover.png",
+    "social_links": [
+        "https://t.me/your_channel",
+        "https://twitter.com/your_account"
+    ],
+    "files": [
+        {
+            "name": "EJO #1",
+            "image": "https://example.com/nft1.png",
+            "description": "Description of NFT #1",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Legendary"
+                }
+            ]
+        },
+        {
+            "name": "NFT #2",
+            "image": "https://example.com/nft2.png",
+            "description": "Description of NFT #2",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Red"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                }
+            ]
+        }
+    ]
+}
